@@ -39,10 +39,6 @@ Features of this C++ language based project :
 
 
 
-![C__Users_Admin_Desktop_main exe](https://user-images.githubusercontent.com/79866006/178735392-b2ebb426-4c1a-4454-a60b-ce57a5728873.png)
-
-
-
 
 
 
